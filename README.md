@@ -19,7 +19,7 @@ A conversational chatbot built with Django and ChatterBot, designed to provide i
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/lebm646/Chatbot
    cd Chatbot
    ```
 
